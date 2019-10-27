@@ -1,78 +1,116 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: http://schaan.github.io
 
-# leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  name: Shan Hua
+  depiction: link.png
+  profession: Full-stack Developer and Solution Architect
+  location: Munich, Germany
+  citizenship:
+  email: shan.hua@gmx.de
+  site:
+  phone: 0049 173 4808 302 
+  github: /Schaan
+  stackoverflow:
+  linkedin: /shan-hua
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
-   accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
-   accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+- position: Analyst specializing in Programming and Automation
+  company: BCG GAMMA, Boston Consulting Group
+  location: Munich, Germany
+  dates: 06.2018 - current
+  summary: He engages in end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. He is also a solution enabler employing emerging technology to automate internal working processes and to make AI consumable in client cases.
+  accomplishments:
+  - accomplishment: "He brings the whole mondern solution package to the GAMMA team in Germany by building web-based tools in microservices on cloud platform, trying to integrate test-driven methods, version management, and continuous deployment into the conventional working processes of data analysis."
+  - accomplishment: He builds web tools and takes them into production for clients, from architecture designing to deployment.
+- position: Lecturer
+  company: Hochschule Ansbach - University of Applied Sciences
+  location: Ansbach, Germany
+  dates: 04.2018 - 06.2018
+  summary: He holds the lecture "Building Information Modeling (for MEP Engineers)".
+- position: Engineer in overall integration of construction planning
+  company: OBERMEYER Planning and Consulting GmbH
+  location: Munich, Germany
+  dates: 11.2016 - 02.2018
+  summary: "He drives the company's digitization process in its core department. He designs execution plans and implements them for the collaborative working of engineers in different fields of construction projects in alignment with Building Information Modeling (BIM) standards."
+  accomplishments:
+  - accomplishment: He makes a web application for internal competence management to support staffing in various construction projects.
+  - accomplishment: He is responsible for designing the part of MEP engineering in company-wide BIM execution plans.
+  - accomplishment: He creates add-ins on BIM-platforms and offers trainings for BIM-tools.
+- position: Research Fellow
+  company: ResearchLab of Architecture Faculty and Center for Sustainable Building, TU Munich
+  location: Munich, Germany
+  dates: 05.2014 - 07.2017
+  summary: He holds the lectures "Building Information Modeling" and "Building Performance Simulation". He is the technical responsible person of the TUM-team in the EU-Project FLUIDGLASS. 
 
 technicalSkills:
-  list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
+    - name: Node.js with Express framework
+      level: 100
+    - name: Python Flask
+      level: 80
+    - name: ASP.NET
+      level: 60
+    - name: Java Springboot
+      level: 50
   frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
-     level: 90
-  other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
-     level: 100
-
-sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML/CSS/Bootstrap
-
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+    - name: React
+      level: 100
+    - name: Angular
+      level: 60
+    - name: Static sites with Jekyll
+      level: 70
+  testing:
+    - name: Jest (for JS)
+      level: 80
+    - name: Enzyme (for JS)
+      level: 50
+  database:
+    - name: MongoDB
+      level: 100
+    - name: PostgreSQL
+      level: 70
+    - name: Microsoft SQL
+      level: 70
+    - name: Neo4j
+      level: 60
+  machineLearning:
+    - name: scikit-learn (in Python)
+      level: 80
+    - name: nltk & spacy (for natural language processing)
+      level: 70
+    - name: Keras (in Python)
+      level: 60
+    - name: TensorFlow
+      level: 50
+  platformOps:
+    - name: Git
+      level: 100
+    - name: Docker
+      level: 90
+    - name: AWS
+      level: 70
+    - name: Jenkins
+      level: 60
+    - name: Kubernetes
+      level: 60
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+- name: Electrical and Computer Engineering, TU Munich
+  degree: Bachelor of Science (unfinished)
+  location: 
+  dates: 2017 - 2018
+  link:
+- name: Energy-efficient and Sustainable Building, TU Munich
+  degree: Master of Science
+  location: 
+  dates: 2011 - 2013
+  link:
+- name: Architecture, Tsinghua University, Beijing
+  degree: Bachelor of Architecture
+  location: 
+  dates: 2005 - 2010
+  link:
+
+hobbies:
+- name: "Music: playing in bands and chorus; recording and mixing in home-studio"
+- name: Raspberry Pi
