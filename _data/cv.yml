@@ -8,34 +8,36 @@ person:
   citizenship:
   email: shan.hua@gmx.de
   site:
-  phone: 0049 173 4808 302 
+  phone:
   github: /Schaan
   stackoverflow:
   linkedin: /shan-hua
 
+introduction: 
+  Shan is a professional software developer with years of experience in full-stack web development projects. <br />
+  He is experienced with various programming languages and is a mastery of Javascript and Typescript. He is an expertise in the front-end framework React, and doesn't stick to it. <br />
+  He feel comfortable working in DevOps environment and is familiar with the principles and toolings. <br />
+  With experience in team-working in consulting and construction industries, he is communicative and always aligns his contributions actively into business requirements and contexts. He is acknowledged as an "intelligent problem solver" by colleagues and clients.
+
 career:
-- position: Analyst specializing in Programming and Automation
-  company: BCG GAMMA, Boston Consulting Group
+- position: Analyst Software Developer
+  company: BCG GAMMA
   location: Munich, Germany
   dates: 06.2018 - current
-  summary: He engages in end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. He is also a solution enabler employing emerging technology to automate internal working processes and to make AI consumable in client cases.
-  accomplishments:
-  - accomplishment: "He brings the whole mondern solution package to the GAMMA team in Germany by building web-based tools in microservices on cloud platform, trying to integrate test-driven methods, version management, and continuous deployment into the conventional working processes of data analysis."
-  - accomplishment: He builds web tools and takes them into production for clients, from architecture designing to deployment.
+  summary: He engages in end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. (Check more details on <a href="http://link.bcg.com">link.bcg.com</a>)
 - position: Lecturer
-  company: Hochschule Ansbach - University of Applied Sciences
+  company: Ansbach University of Applied Sciences
   location: Ansbach, Germany
   dates: 04.2018 - 06.2018
-  summary: He holds the lecture "Building Information Modeling (for MEP Engineers)".
-- position: Engineer in overall integration of construction planning
+  summary: He holds the lecture "Building Information Modeling (BIM) for MEP Engineers".
+- position: BIM-Engineer in overall integration of construction planning
   company: OBERMEYER Planning and Consulting GmbH
   location: Munich, Germany
   dates: 11.2016 - 02.2018
   summary: "He drives the company's digitization process in its core department. He designs execution plans and implements them for the collaborative working of engineers in different fields of construction projects in alignment with Building Information Modeling (BIM) standards."
   accomplishments:
-  - accomplishment: He makes a web application for internal competence management to support staffing in various construction projects.
-  - accomplishment: He is responsible for designing the part of MEP engineering in company-wide BIM execution plans.
-  - accomplishment: He creates add-ins on BIM-platforms and offers trainings for BIM-tools.
+  - accomplishment: He is the lead engineer in creating a web application for internal competence management which improves the efficiency and intelligence in staffing for various construction projects using Angular and .NET platform.
+  - accomplishment: He is responsible for designing the part of MEP engineering in company-wide BIM execution plans, creates workflow automation and add-ons on BIM-platforms using Shell-scripts, Python and C#, and offers training for the BIM-tools.
 - position: Research Fellow
   company: ResearchLab of Architecture Faculty and Center for Sustainable Building, TU Munich
   location: Munich, Germany
@@ -43,32 +45,31 @@ career:
   summary: He holds the lectures "Building Information Modeling" and "Building Performance Simulation". He is the technical responsible person of the TUM-team in the EU-Project FLUIDGLASS. 
 
 technicalSkills:
+  frontend:
+    - name: React (in Javascript and Typescript)
+      level: 100
+    - name: Angular (in Typescript)
+      level: 80
+    - name: HTML5
+      level: 80
+    - name: CSS
+      level: 80
   backend:
     - name: Node.js with Express framework
       level: 100
     - name: Python Flask
       level: 80
-    - name: ASP.NET
+    - name: GO
       level: 60
-    - name: Java Springboot
-      level: 50
-  frontend:
-    - name: React
-      level: 100
-    - name: Angular
+    - name: ASP.NET (C#)
       level: 60
-    - name: Static sites with Jekyll
-      level: 70
-  testing:
-    - name: Jest (for JS)
-      level: 80
-    - name: Enzyme (for JS)
-      level: 50
+    - name: Springboot (Java)
+      level: 40
   database:
     - name: MongoDB
       level: 100
     - name: PostgreSQL
-      level: 70
+      level: 80
     - name: Microsoft SQL
       level: 70
     - name: Neo4j
@@ -78,18 +79,16 @@ technicalSkills:
       level: 80
     - name: nltk & spacy (for natural language processing)
       level: 70
-    - name: Keras (in Python)
-      level: 60
-    - name: TensorFlow
-      level: 50
   platformOps:
     - name: Git
       level: 100
     - name: Docker
       level: 90
     - name: AWS
-      level: 70
-    - name: Jenkins
+      level: 80
+    - name: Google Cloud
+      level: 80
+    - name: Jenkins (CI/CD)
       level: 60
     - name: Kubernetes
       level: 60
@@ -103,13 +102,15 @@ education:
 - name: Energy-efficient and Sustainable Building, TU Munich
   degree: Master of Science
   location: 
-  dates: 2011 - 2013
+  dates: 2011 - 2014
   link:
+  summary: He has the Master-thesis in the topic on creating tools in Java, which converts the standard "Building Information" data model into the energy and indoor environment simulation program written in Modelica (also written by him in the research project). He won the DAAD price for the best foreign students in 2013.
 - name: Architecture, Tsinghua University, Beijing
   degree: Bachelor of Architecture
   location: 
   dates: 2005 - 2010
   link:
+  summary: He is focused on building physics and computer-aided engineering. He writes his Bachelor-thesis by creating an add-on in AutoCAD with C++, which helps validating the acoustics and sights in designs of theaters and performance halls. He won the first price for research in theater design from Acoustical Society of America in 2009.
 
 hobbies:
 - name: "Music: playing in bands and chorus; recording and mixing in home-studio"
