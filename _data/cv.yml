@@ -20,7 +20,7 @@ introduction:
   With experience in team-working in consulting and construction industries, he is communicative and always aligns his contributions actively into business requirements and contexts. He is acknowledged as an "intelligent problem solver" by colleagues and clients.
 
 career:
-- position: Analyst Software Developer
+- position: Senior Analyst Software Developer
   company: BCG GAMMA
   location: Munich, Germany
   dates: 06.2018 - current
@@ -49,11 +49,11 @@ technicalSkills:
     - name: React (in Javascript and Typescript)
       level: 100
     - name: Angular (in Typescript)
-      level: 80
+      level: 90
     - name: HTML5
-      level: 80
+      level: 90
     - name: CSS
-      level: 80
+      level: 90
   backend:
     - name: Node.js with Express framework
       level: 100
@@ -69,9 +69,9 @@ technicalSkills:
     - name: MongoDB
       level: 100
     - name: PostgreSQL
-      level: 80
+      level: 90
     - name: Microsoft SQL
-      level: 70
+      level: 80
     - name: Neo4j
       level: 60
   machineLearning:
@@ -86,10 +86,10 @@ technicalSkills:
       level: 90
     - name: AWS
       level: 80
-    - name: Google Cloud
+    - name: Google Cloud (currently taking courses for certification)
       level: 80
     - name: Jenkins (CI/CD)
-      level: 60
+      level: 80
     - name: Kubernetes
       level: 60
 
