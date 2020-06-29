@@ -3,19 +3,19 @@ url: http://schaan.github.io
 person:
   name: Shan Hua
   depiction: link.png
-  profession: Full-stack Developer and Solution Architect
+  profession: Full-stack Web Developer
   location: Munich, Germany
   citizenship:
-  email: shan.hua@gmx.de
-  site:
+  email: contact@shan-web.com
+  site: shan-web.com
   phone:
-  github: /Schaan
+  github: /shan-hua
   stackoverflow:
   linkedin: /shan-hua
 
 introduction: 
   Shan is a professional software developer with years of experience in full-stack web development projects. <br />
-  He is experienced with multiple programming languages (see details below) and masters Javascript and Typescript. He is an expert in the front-end framework React, and is flexible enough to also work in different frameworks including Angular and JQuery. <br />
+  He is experienced with multiple programming languages (see details below) and masters Javascript and Typescript. He is an expert in the front-end framework React, and is flexible enough to also work in different frameworks including Angular, Vue and JQuery. <br />
   He feels comfortable working in the DevOps environment and is familiar with its principles and toolings. <br />
   With teamwork experience in the consulting and construction industries, he is communicative and always aligns his contributions actively to business needs. He is acknowledged as an "intelligent problem solver" by colleagues and clients.
 
@@ -23,8 +23,11 @@ career:
 - position: Senior Analyst Software Developer
   company: BCG GAMMA
   location: Munich, Germany
-  dates: 06.2018 - current
-  summary: He engages in the end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. (Check more details on the company's webpage)
+  dates: 06.2018 - 06.2020
+  summary: "He engages in the end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. He also helps clients set up their own IT operational environments with cutting-edge technologies. (Check more details on the company's webpage)"
+  accomplishments:
+  - accomplishment: He is the main developer of a whole product-line which is deployed to various clients to help them improve their operation and procurement processes. He is in charge of the front-end (React), back-end (python), database (PostgreSQL and MongoDB), and the infrastructure (AWS).
+  - accomplishment: He is one of the drivers for DevOps and agile development workflow in his department. He is expertise and the go-to person in his team for Docker, Jenkins, Git, Github, Jira and Trello.
 - position: Lecturer
   company: Ansbach University of Applied Sciences
   location: Ansbach, Germany
@@ -37,19 +40,21 @@ career:
   summary: "He drives the company's digitization process in its core department. He designs execution plans and implements them for the collaborative working of engineers in different fields of construction projects in alignment with Building Information Modeling (BIM) standards."
   accomplishments:
   - accomplishment: He is the lead engineer in creating a web application for internal competence management which improves the efficiency and intelligence in staffing for various construction projects using Angular and .NET platform.
-  - accomplishment: He is responsible for designing the part of MEP engineering in company-wide BIM execution plans, creates workflow automation and add-ons on BIM-platforms using Shell-scripts, Python and C#, and offers training for the BIM-tools.
+  - accomplishment: He is responsible for designing the part of MEP engineering in company-wide BIM execution plans, creates workflow automation and add-ons on BIM-platforms using shell-scripts, Python and C#, and offers training for the BIM-tools.
 - position: Research Fellow
   company: ResearchLab of Architecture Faculty and Center for Sustainable Building, TU Munich
   location: Munich, Germany
   dates: 05.2014 - 07.2017
-  summary: He holds the lectures "Building Information Modeling" and "Building Performance Simulation". He is the technical responsible person of the TUM-team in the EU-Project FLUIDGLASS. 
+  summary: He holds the lectures "Building Information Modeling" and "Building Performance Simulation". He is the technical responsible person of the TUM-team in the EU-Project FLUIDGLASS. He creates the Modelica building physics package for educational and research purposes.
 
 technicalSkills:
   frontend:
-    - name: React (in Javascript and Typescript)
+    - name: React (with Redux)
       level: 100
-    - name: Angular (in Typescript)
+    - name: Angular
       level: 90
+    - name: Vue (with Vuex)
+      level: 70
     - name: HTML5
       level: 90
     - name: CSS
@@ -58,7 +63,7 @@ technicalSkills:
     - name: Node.js with Express framework
       level: 100
     - name: Python Flask
-      level: 80
+      level: 90
     - name: GO
       level: 60
     - name: ASP.NET (C#)
@@ -67,31 +72,36 @@ technicalSkills:
       level: 40
   database:
     - name: MongoDB
-      level: 100
+      level: 90
     - name: PostgreSQL
       level: 90
     - name: Microsoft SQL
-      level: 80
+      level: 70
     - name: Neo4j
-      level: 60
+      level: 50
   machineLearning:
     - name: scikit-learn (in Python)
       level: 80
     - name: nltk & spacy (for natural language processing)
       level: 70
   platformOps:
-    - name: Git
-      level: 100
     - name: Docker
       level: 90
-    - name: AWS
-      level: 80
     - name: Google Cloud (currently taking courses for certification)
+      level: 90
+    - name: AWS
       level: 80
     - name: Jenkins (CI/CD)
       level: 80
     - name: Kubernetes
-      level: 60
+      level: 50
+  workflow:
+    - name: Git
+      level: 100
+    - name: Trello
+      level: 100
+    - name: Jira
+      level: 80
 
 education:
 - name: Electrical and Computer Engineering, TU Munich
