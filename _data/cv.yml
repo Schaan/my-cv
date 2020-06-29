@@ -24,7 +24,7 @@ career:
   company: BCG GAMMA
   location: Munich, Germany
   dates: 06.2018 - 06.2020
-  summary: "He engages in the end-to-end production of web applications, which helps clients make efficient and intelligent use of the consulting service. He also helps clients set up their own IT operational environments with cutting-edge technologies. (Check more details on the company's webpage)"
+  summary: "He engages in the end-to-end production of web applications, which help clients make efficient and intelligent use of the consulting service. He also helps clients set up their own IT operational environments with cutting-edge technologies. (Check more details on the company's webpage)"
   accomplishments:
   - accomplishment: He is the main developer of a whole product-line which is deployed to various clients to help them improve their operation and procurement processes. He is in charge of the front-end (React), back-end (python), database (PostgreSQL and MongoDB), and the infrastructure (AWS).
   - accomplishment: He is one of the drivers for DevOps and agile development workflow in his department. He is expertise and the go-to person in his team for Docker, Jenkins, Git, Github, Jira and Trello.
