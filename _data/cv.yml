@@ -15,11 +15,19 @@ person:
 
 introduction: 
   Shan is a professional software developer with years of experience in full-stack web development projects. <br />
-  He is experienced with multiple programming languages (see details below) and masters Javascript and Typescript. He is an expert in the front-end framework React, and is flexible enough to also work in different frameworks including Angular, Vue and JQuery. <br />
+  He is experienced with multiple programming languages (see details below) and masters Javascript and Typescript. He is an expert in the front-end framework React, and is flexible enough to also work in different frameworks as well as in vanilla JS. <br />
   He feels comfortable working in the DevOps environment and is familiar with its principles and toolings. <br />
   With teamwork experience in the consulting and construction industries, he is communicative and always aligns his contributions actively to business needs. He is acknowledged as an "intelligent problem solver" by colleagues and clients.
 
 career:
+- position: Senior Software Developer
+  company: DeepL GmbH
+  location: Munich, Germany
+  dates: 08.2020 - now
+  summary: "He works in the web development team of DeepL (deepl.com), creating one of the world's best machine translation software. "
+  accomplishments:
+  - accomplishment: He is working in the taskforce "web platform and testing", to create common front-end framework, automated workflow, pipelines for CI/CD. He takes a lot of responsibilities on code refactoring, performance optimization and interface developments working with the backend teams.
+  - accomplishment: He gains a lot of experience in Javascript, Typescript, React, Jenkins, Docker, linux-related shell-scripting, and computer networking skills.
 - position: Senior Analyst Software Developer
   company: BCG GAMMA
   location: Munich, Germany
@@ -52,7 +60,7 @@ technicalSkills:
     - name: React (with Redux)
       level: 100
     - name: Angular
-      level: 90
+      level: 80
     - name: Vue (with Vuex)
       level: 70
     - name: HTML5
@@ -68,8 +76,6 @@ technicalSkills:
       level: 60
     - name: ASP.NET (C#)
       level: 60
-    - name: Springboot (Java)
-      level: 40
   database:
     - name: MongoDB
       level: 90
@@ -77,21 +83,19 @@ technicalSkills:
       level: 90
     - name: Microsoft SQL
       level: 70
-    - name: Neo4j
-      level: 50
   machineLearning:
     - name: scikit-learn (in Python)
       level: 80
     - name: nltk & spacy (for natural language processing)
       level: 70
   platformOps:
+    - name: Jenkins (CI/CD)
+      level: 100
     - name: Docker
-      level: 90
+      level: 100
     - name: Google Cloud (currently taking courses for certification)
       level: 90
     - name: AWS
-      level: 80
-    - name: Jenkins (CI/CD)
       level: 80
     - name: Kubernetes
       level: 50
@@ -101,7 +105,9 @@ technicalSkills:
     - name: Trello
       level: 100
     - name: Jira
-      level: 80
+      level: 100
+    - name: Slack app
+      level: 90
 
 education:
 - name: Electrical and Computer Engineering, TU Munich
